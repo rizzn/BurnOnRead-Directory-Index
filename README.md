@@ -3,9 +3,9 @@
 
 | Name | Url | Encryption | Burn | API | Password | Upload |
 |-----|---|---|---|---|---|---|
-| **Nordpass Password Sharer:** | https://nordpass.com/de/password-sharer/ | ⛔ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
-| **OneTimeSecret:** | https://onetimesecret.com/ | ⛔ | ✅ | ⛔ | ⛔ | ✅ | ⛔ |
-| **Password[dot]link:** | https://password.link/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
-| **Password Pusher:** | https://pwpush.com/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ✅ |
-| **Transfer[dot]pw:** | https://transfer.pw/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
-| **ZPaper:** | https://bitbin.it/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **Nordpass Password Sharer** | https://nordpass.com/de/password-sharer/ | ⛔ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **OneTimeSecret** | https://onetimesecret.com/ | ⛔ | ✅ | ⛔ | ⛔ | ✅ | ⛔ |
+| **Password[dot]link** | https://password.link/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
+| **Password Pusher** | https://pwpush.com/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ✅ |
+| **Transfer[dot]pw** | https://transfer.pw/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **ZPaper** | https://bitbin.it/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
