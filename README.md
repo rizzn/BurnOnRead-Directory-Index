@@ -8,4 +8,4 @@
 | **Password[dot]link** | https://password.link/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
 | **Password Pusher** | https://pwpush.com/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ✅ |
 | **Transfer[dot]pw** | https://transfer.pw/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
-| **ZPaper** | https://bitbin.it/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
+| **ZPaper** | https://zpaper.dev/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
