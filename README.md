@@ -7,5 +7,5 @@
 | **OneTimeSecret** | https://onetimesecret.com/ | ⛔ | ✅ | ⛔ | ⛔ | ✅ | ⛔ |
 | **Password[dot]link** | https://password.link/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ⛔ |
 | **Password Pusher** | https://pwpush.com/ | ⛔ | ✅ | ✅ | ⛔ | ⛔ | ✅ |
+| **SnapSend** | https://snapsend.chat/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
 | **Transfer[dot]pw** | https://transfer.pw/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
-| **ZPaper** | https://zpaper.dev/ | ✅ | ✅ | ⛔ | ⛔ | ⛔ | ⛔ |
