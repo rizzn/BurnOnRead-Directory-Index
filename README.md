@@ -1,5 +1,5 @@
-# PDI - Passwort Directory Index
-## Easy to use Password Sites and their features
+# PDI - BurnOnRead Directory Index
+## Easy to use BOR Sites and their features
 
 | Name | Url | Encryption | Burn | API | Password | Upload |
 |-----|---|---|---|---|---|---|
