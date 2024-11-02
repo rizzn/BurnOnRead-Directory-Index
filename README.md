@@ -1,4 +1,4 @@
-# PDI - BurnOnRead Directory Index
+# BDI - BurnOnRead Directory Index
 ## Easy to use BOR Sites and their features
 
 | Name | Url | Encryption | Burn | API | Password | Upload |
